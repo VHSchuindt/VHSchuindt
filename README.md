@@ -68,5 +68,5 @@ Eu sou um desenvolvedor focado em automação (RPA) e apaixonado por trazer qual
 ---
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api?github_user_name=VHSchuindt&svg_animation=true&theme=dark&v=1" alt="Animação de Contribuição (Snake)" />
+  <img src="https://raw.githubusercontent.com/VHSchuindt/VHSchuindt/output/github-contribution-grid-snake-dark.svg" alt="Animação de Contribuição (Snake)" />
 </p>
