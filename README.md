@@ -20,10 +20,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Sobre mim
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 Sou desenvolvedor focado em **automação de processos (RPA)** e apaixonado por levar qualidade de trabalho para as pessoas. Acredito em **tecnologias simples que geram grande impacto**.
 
 - 🏢 Trabalho na **Bom Futuro Energia**
@@ -31,24 +27,16 @@ Sou desenvolvedor focado em **automação de processos (RPA)** e apaixonado por 
 - 🤝 Aberto a projetos **open source** em **Python** ou **PHP**
 - 💬 Pergunte sobre **RPA, Selenium, Python e Laravel**
 
-</td>
-<td width="40%" valign="top">
-
 ```python
 class Vitor:
     role = "Dev de RPA"
     company = "Bom Futuro Energia"
-    stack = ["Python", "Selenium",
-             "Django", "Laravel"]
+    stack = ["Python", "Selenium", "Django", "Laravel"]
     learning = "Django"
 
     def mood(self):
         return "automatizando ☕"
 ```
-
-</td>
-</tr>
-</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Stack
 
