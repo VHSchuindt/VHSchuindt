@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/VHSchuindt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Automatizando+o+que+%C3%A9+repetitivo;%E2%9A%A1+Apaixonado+por+Agilidade+e+Qualidade;%F0%9F%90%8D+Python+%E2%80%A2+Selenium+%E2%80%A2+Django+%E2%80%A2+Laravel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Automatizando+o+que+%C3%A9+repetitivo;Apaixonado+por+Agilidade+e+Qualidade;Python+%E2%80%A2+Selenium+%E2%80%A2+Django+%E2%80%A2+Laravel" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,27 +18,25 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Sobre mim
+## <img src="assets/icons/person.svg" width="24" /> Sobre mim
 
 Sou desenvolvedor focado em **automação de processos (RPA)** e apaixonado por levar qualidade de trabalho para as pessoas. Acredito em **tecnologias simples que geram grande impacto**.
 
-- 🏢 Trabalho na **Bom Futuro Energia**
-- 🌱 Estudando **Django**
-- 🤝 Aberto a projetos **open source** em **Python** ou **PHP**
-- 💬 Pergunte sobre **RPA, Selenium, Python e Laravel**
+- <img src="assets/icons/book.svg" width="16" /> Estudando **Django**
+- <img src="assets/icons/git-pull-request.svg" width="16" /> Aberto a projetos **open source** em **Python** ou **PHP**
+- <img src="assets/icons/comment-discussion.svg" width="16" /> Pergunte sobre **RPA, Selenium, Python e Laravel**
 
 ```python
 class Vitor:
     role = "Dev de RPA"
-    company = "Bom Futuro Energia"
     stack = ["Python", "Selenium", "Django", "Laravel"]
     learning = "Django"
 
     def mood(self):
-        return "automatizando ☕"
+        return "automatizando..."
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Stack
+## <img src="assets/icons/tools.svg" width="24" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,cs,django,laravel,selenium,react,vue&perline=10" alt="Linguagens e frameworks" />
@@ -46,7 +44,7 @@ class Vitor:
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,azure,git,github,vscode,postman,linux&perline=10" alt="Bancos, cloud e ferramentas" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> Estatísticas
+## <img src="assets/icons/graph.svg" width="24" /> Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VHSchuindt&show_icons=true&theme=github_dark&hide_border=false&border_color=30363D&border_radius=8&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas" />
