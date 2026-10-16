@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 16/10/2026 07:19 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 16/10/2026 08:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -25,10 +25,10 @@ Consulta de 16/10/2026 07:19 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Destino | Avião | Na malha ANAC | Link |
 |---|---|---|---|---|---|---|---|
-| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/w63wdx |
-| R$ 587 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/8u7sqv |
-| R$ 599 | Kiwi | AD4339 | 05/01 17:30 | Campinas | A20N | ✅ | https://kiwi.com/u/h3uzfkg |
-| R$ 599 | Kiwi | AD4238 | 05/01 08:10 | Campinas | A20N | ✅ | https://kiwi.com/u/zztqqq |
+| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/gtykum |
+| R$ 587 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/bkrvs6 |
+| R$ 599 | Kiwi | AD4339 | 05/01 17:30 | Campinas | A20N | ✅ | https://kiwi.com/u/jnbdfh |
+| R$ 599 | Kiwi | AD4238 | 05/01 08:10 | Campinas | A20N | ✅ | https://kiwi.com/u/uw4gc3 |
 | R$ 604 | Google | LA3271 | 05/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 05/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
@@ -40,10 +40,13 @@ Consulta de 16/10/2026 07:19 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 539 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/9jw63p |
-| R$ 539 | Kiwi | AD4340 | 11/01 23:45 | Campinas | https://kiwi.com/u/hrds6q |
-| R$ 539 | Kiwi | AD4336 | 11/01 09:05 | Campinas | https://kiwi.com/u/g32633 |
-| R$ 596 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/dys87uz |
-| R$ 607 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/zy9vjv |
+| R$ 539 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/c8b9fz |
+| R$ 539 | Kiwi | AD4340 | 11/01 23:45 | Campinas | https://kiwi.com/u/tszkr8 |
+| R$ 539 | Kiwi | AD4336 | 11/01 09:05 | Campinas | https://kiwi.com/u/fyqj2t |
+| R$ 596 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/d6uh86 |
+| R$ 607 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/mjg3b7 |
 
 Malha ANAC: 121 voos diretos programados no período.
+
+Erros nesta consulta:
+- Google ida 2027-01-05 CGB->VCP: FlightsNotFound: no flights found; received error
