@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 16/10/2026 19:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 16/10/2026 20:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -25,7 +25,7 @@ Consulta de 16/10/2026 19:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Destino | Avião | Na malha ANAC | Link |
 |---|---|---|---|---|---|---|---|
-| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/urdzc3u |
+| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://on.kiwi.com/8yh8t36 |
 | R$ 604 | Google | LA3271 | 05/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 05/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
@@ -40,10 +40,10 @@ Consulta de 16/10/2026 19:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 593 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/4gbvhm |
-| R$ 605 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/fy85b2d |
-| R$ 605 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/93tw7p |
-| R$ 606 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/bcptvj |
-| R$ 606 | Kiwi | AD4336 | 11/01 09:05 | Campinas | https://kiwi.com/u/mjnu4f |
+| R$ 593 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://on.kiwi.com/7t33d4 |
+| R$ 605 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://on.kiwi.com/2knfwd |
+| R$ 605 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://on.kiwi.com/bxczpj |
+| R$ 606 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://on.kiwi.com/b8fx5t |
+| R$ 606 | Kiwi | AD4336 | 11/01 09:05 | Campinas | https://on.kiwi.com/r6ytzs |
 
 Malha ANAC: 121 voos diretos programados no período.

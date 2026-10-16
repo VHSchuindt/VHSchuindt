@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-16T19:16",
+ "coletado_em": "2026-10-16T20:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1678,20 +1678,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31469",
-   "cia": "Gol",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T01:50:00",
-   "chegada": "2027-01-07T05:00:00",
-   "aviao": "Boeing 737",
-   "preco": 758,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "G31429",
    "cia": "Gol",
    "origem": "CGB",
@@ -2007,7 +1993,7 @@
    "partida": "2027-01-08T10:40:00",
    "chegada": "2027-01-08T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 1408,
+   "preco": 1307,
    "link": null,
    "na_malha_anac": true
   },
