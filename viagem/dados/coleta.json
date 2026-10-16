@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-16T20:15",
+ "coletado_em": "2026-10-16T21:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1818,6 +1818,20 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "G31429",
+   "cia": "Gol",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-08T11:10:00",
+   "chegada": "2027-01-08T14:30:00",
+   "aviao": "Boeing 737",
+   "preco": 667,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "AD2751",
    "cia": "Azul",
    "origem": "CGB",
@@ -1840,20 +1854,6 @@
    "chegada": "2027-01-08T19:35:00",
    "aviao": "Embraer 195 E2",
    "preco": 737,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "G31429",
-   "cia": "Gol",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T11:10:00",
-   "chegada": "2027-01-08T14:30:00",
-   "aviao": "Boeing 737",
-   "preco": 758,
    "link": null,
    "na_malha_anac": true
   },
@@ -2343,7 +2343,7 @@
    "partida": "2027-01-10T09:40:00",
    "chegada": "2027-01-10T11:00:00",
    "aviao": "Embraer 195 E2",
-   "preco": 1769,
+   "preco": 1301,
    "link": null,
    "na_malha_anac": true
   },
