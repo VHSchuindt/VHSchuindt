@@ -6,7 +6,7 @@
 Saída: viagem/dados/coleta.json
 Uso:   python coletar.py
 """
-import json, os, sys, urllib.request
+import json, os, sys, time, urllib.request
 from datetime import datetime, timedelta, date
 
 from config import IDA, VOLTA, AEROPORTOS_SP, ICAO, CIAS
@@ -70,11 +70,20 @@ def etapa2_google(malha):
     consultas = [("ida", d, "CGB", sp) for d in IDA for sp in AEROPORTOS_SP] + \
                 [("volta", d, sp, "CGB") for d in VOLTA for sp in AEROPORTOS_SP]
     for sentido, dia, o, d in consultas:
+        time.sleep(2)  # espaça as buscas para o Google não bloquear
         q = create_query(flights=[FlightQuery(date=dia.isoformat(), from_airport=o, to_airport=d)],
                          trip="one-way", passengers=Passengers(adults=1),
                          language="pt-BR", currency="BRL", max_stops=0)
         try:
-            for f in get_flights(q, proxy=proxy):
+            for tentativa in range(3):  # o Google às vezes devolve página vazia; tenta de novo
+                try:
+                    resultado = get_flights(q, proxy=proxy)
+                    break
+                except Exception:
+                    if tentativa == 2:
+                        raise
+                    time.sleep(5 * (tentativa + 1))
+            for f in resultado:
                 s = f.flights[0]
                 partida = datetime(*s.departure.date, *s.departure.time)
                 chegada = datetime(*s.arrival.date, *s.arrival.time)
