@@ -39,6 +39,19 @@ def mais_barato(ofertas, **filtros):
     return min(c, key=lambda o: (o["preco"], o["partida"])) if c else None
 
 
+NIVEIS = [(500, 3, "🚨🚨🚨 ALERTA MÁXIMO — abaixo de R$ 500"),
+          (600, 2, "🔴🔴 ALERTA FORTE — abaixo de R$ 600"),
+          (700, 1, "🟡 Alerta — abaixo de R$ 700")]
+
+
+def nivel(o):
+    """0 = sem alerta; 1, 2, 3 = cada vez mais severo conforme o preço cai."""
+    for teto, n, rotulo in NIVEIS:
+        if o and o["preco"] < teto:
+            return n, rotulo
+    return 0, ""
+
+
 def mesmo_voo(a, b):
     return a and b and a["voo"] == b["voo"] and a["partida"] == b["partida"]
 
@@ -100,6 +113,14 @@ def main():
             d = snap["total"] - anterior["total"]
             t += f"; antes R$ {anterior['total']} ({'+' if d > 0 else ''}{d})" if d else "; igual ao anterior"
         txt.append(t + ".")
+    n, rotulo = nivel(atual)
+    snap["nivel"] = n
+    if n:
+        cabeca = f"{rotulo}: {fmt(atual)}"
+        n_ant = (anterior or {}).get("nivel", 0)
+        if anterior and n > n_ant:
+            cabeca += " — NOVA FAIXA, preço caiu de nível!"
+        txt.insert(0, cabeca)
     resumo = "\n".join(txt)
 
     # ---- relatório completo ----
