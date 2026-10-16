@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-16T17:15",
+ "coletado_em": "2026-10-16T18:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1524,20 +1524,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-06T02:05:00",
-   "chegada": "2027-01-06T05:05:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 643,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "AD4238",
    "cia": "Azul",
    "origem": "CGB",
@@ -1574,6 +1560,20 @@
    "chegada": "2027-01-06T20:30:00",
    "aviao": "Airbus A320neo",
    "preco": 643,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD4341",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-06T02:05:00",
+   "chegada": "2027-01-06T05:05:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 707,
    "link": null,
    "na_malha_anac": true
   },
@@ -2343,7 +2343,7 @@
    "partida": "2027-01-10T21:40:00",
    "chegada": "2027-01-10T22:55:00",
    "aviao": "Airbus A320",
-   "preco": 883,
+   "preco": 823,
    "link": null,
    "na_malha_anac": true
   },
