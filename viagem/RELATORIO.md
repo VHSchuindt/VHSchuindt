@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 17/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 17/10/2026 05:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -25,9 +25,9 @@ Consulta de 17/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Destino | Avião | Na malha ANAC | Link |
 |---|---|---|---|---|---|---|---|
-| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/wh3w2d |
-| R$ 577 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/2q7j9n |
-| R$ 577 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/kxcp3m |
+| R$ 510 | Kiwi | G31467 | 09/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/h55rv6 |
+| R$ 577 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/s6xmv8 |
+| R$ 577 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/3ctxvq |
 | R$ 604 | Google | LA3271 | 05/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 05/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
@@ -40,9 +40,9 @@ Consulta de 17/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 605 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/3dch6r |
-| R$ 605 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/tcnms3 |
-| R$ 606 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/xb2d9z |
+| R$ 605 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/hscy2f |
+| R$ 605 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/hgsb4r |
+| R$ 606 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/7cdg2y |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 | R$ 618 | Google | LA3030 | 10/01 08:55 | Congonhas | site da cia |
 
