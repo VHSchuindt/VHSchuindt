@@ -6,7 +6,7 @@
   "origem": "CGB",
   "destino": "GRU",
   "preco": 510,
-  "link": "https://kiwi.com/u/8rgc3t"
+  "link": "https://kiwi.com/u/cry4xm"
  },
  {
   "sentido": "ida",
@@ -15,7 +15,7 @@
   "origem": "CGB",
   "destino": "GRU",
   "preco": 577,
-  "link": "https://kiwi.com/u/4y2kyf2"
+  "link": "https://kiwi.com/u/58jbhs3"
  },
  {
   "sentido": "ida",
@@ -24,7 +24,7 @@
   "origem": "CGB",
   "destino": "GRU",
   "preco": 577,
-  "link": "https://kiwi.com/u/9v8qypr"
+  "link": "https://kiwi.com/u/9xzhx7"
  },
  {
   "sentido": "ida",
@@ -33,16 +33,7 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 624,
-  "link": "https://kiwi.com/u/zypsxzh"
- },
- {
-  "sentido": "ida",
-  "voo": "AD4238",
-  "partida": "2027-01-05T08:10:00",
-  "origem": "CGB",
-  "destino": "VCP",
-  "preco": 624,
-  "link": "https://kiwi.com/u/tyhtvs"
+  "link": "https://kiwi.com/u/4n9fdy"
  },
  {
   "sentido": "ida",
@@ -51,7 +42,16 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 624,
-  "link": "https://kiwi.com/u/hjdduj"
+  "link": "https://kiwi.com/u/uhpt9u"
+ },
+ {
+  "sentido": "ida",
+  "voo": "AD4238",
+  "partida": "2027-01-05T08:10:00",
+  "origem": "CGB",
+  "destino": "VCP",
+  "preco": 624,
+  "link": "https://kiwi.com/u/kyvxgu"
  },
  {
   "sentido": "ida",
@@ -60,16 +60,7 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 625,
-  "link": "https://kiwi.com/u/438bbq"
- },
- {
-  "sentido": "ida",
-  "voo": "AD4341",
-  "partida": "2027-01-08T02:05:00",
-  "origem": "CGB",
-  "destino": "VCP",
-  "preco": 625,
-  "link": "https://kiwi.com/u/vmmqq8"
+  "link": "https://kiwi.com/u/r6dwk9"
  },
  {
   "sentido": "ida",
@@ -78,7 +69,16 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 625,
-  "link": "https://kiwi.com/u/3nhfkw"
+  "link": "https://kiwi.com/u/vubdjj"
+ },
+ {
+  "sentido": "ida",
+  "voo": "AD4341",
+  "partida": "2027-01-08T02:05:00",
+  "origem": "CGB",
+  "destino": "VCP",
+  "preco": 625,
+  "link": "https://kiwi.com/u/k25w58"
  },
  {
   "sentido": "ida",
@@ -87,25 +87,7 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 625,
-  "link": "https://kiwi.com/u/u4hqdf6"
- },
- {
-  "sentido": "ida",
-  "voo": "AD4238",
-  "partida": "2027-01-08T08:10:00",
-  "origem": "CGB",
-  "destino": "VCP",
-  "preco": 625,
-  "link": "https://kiwi.com/u/ztgn7j"
- },
- {
-  "sentido": "ida",
-  "voo": "AD4238",
-  "partida": "2027-01-07T08:10:00",
-  "origem": "CGB",
-  "destino": "VCP",
-  "preco": 625,
-  "link": "https://kiwi.com/u/py2f7sr"
+  "link": "https://kiwi.com/u/ujyhws"
  },
  {
   "sentido": "ida",
@@ -114,7 +96,16 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 625,
-  "link": "https://kiwi.com/u/pkqyst"
+  "link": "https://kiwi.com/u/pv6vkc"
+ },
+ {
+  "sentido": "ida",
+  "voo": "AD4238",
+  "partida": "2027-01-08T08:10:00",
+  "origem": "CGB",
+  "destino": "VCP",
+  "preco": 625,
+  "link": "https://kiwi.com/u/jyucc8"
  },
  {
   "sentido": "ida",
@@ -123,7 +114,16 @@
   "origem": "CGB",
   "destino": "VCP",
   "preco": 625,
-  "link": "https://kiwi.com/u/n9tyw8"
+  "link": "https://kiwi.com/u/2bgyzm"
+ },
+ {
+  "sentido": "ida",
+  "voo": "AD4238",
+  "partida": "2027-01-07T08:10:00",
+  "origem": "CGB",
+  "destino": "VCP",
+  "preco": 625,
+  "link": "https://kiwi.com/u/98xc6m"
  },
  {
   "sentido": "ida",
@@ -132,16 +132,7 @@
   "origem": "CGB",
   "destino": "GRU",
   "preco": 636,
-  "link": "https://kiwi.com/u/grxnhk"
- },
- {
-  "sentido": "volta",
-  "voo": "AD6060",
-  "partida": "2027-01-11T20:35:00",
-  "origem": "CGH",
-  "destino": "CGB",
-  "preco": 605,
-  "link": "https://kiwi.com/u/u5tz2m"
+  "link": "https://kiwi.com/u/vbqqwf"
  },
  {
   "sentido": "volta",
@@ -150,7 +141,16 @@
   "origem": "CGH",
   "destino": "CGB",
   "preco": 605,
-  "link": "https://kiwi.com/u/jbyrqs"
+  "link": "https://kiwi.com/u/zmhf3m"
+ },
+ {
+  "sentido": "volta",
+  "voo": "AD6060",
+  "partida": "2027-01-11T20:35:00",
+  "origem": "CGH",
+  "destino": "CGB",
+  "preco": 605,
+  "link": "https://kiwi.com/u/2kgy8w"
  },
  {
   "sentido": "volta",
@@ -159,7 +159,7 @@
   "origem": "VCP",
   "destino": "CGB",
   "preco": 606,
-  "link": "https://kiwi.com/u/p5wvc5"
+  "link": "https://kiwi.com/u/f2dx63"
  },
  {
   "sentido": "volta",
@@ -167,17 +167,8 @@
   "partida": "2027-01-10T09:40:00",
   "origem": "CGH",
   "destino": "CGB",
-  "preco": 651,
-  "link": "https://kiwi.com/u/wzdkbz"
- },
- {
-  "sentido": "volta",
-  "voo": "AD4769",
-  "partida": "2027-01-10T08:25:00",
-  "origem": "GRU",
-  "destino": "CGB",
-  "preco": 652,
-  "link": "https://kiwi.com/u/xhkt7v"
+  "preco": 693,
+  "link": "https://kiwi.com/u/c3pbw8"
  },
  {
   "sentido": "volta",
@@ -185,26 +176,17 @@
   "partida": "2027-01-10T23:55:00",
   "origem": "GRU",
   "destino": "CGB",
-  "preco": 652,
-  "link": "https://kiwi.com/u/w3ww9d"
+  "preco": 887,
+  "link": "https://kiwi.com/u/m893rvd"
  },
  {
   "sentido": "volta",
-  "voo": "AD4336",
-  "partida": "2027-01-10T09:00:00",
-  "origem": "VCP",
+  "voo": "AD4769",
+  "partida": "2027-01-10T08:25:00",
+  "origem": "GRU",
   "destino": "CGB",
-  "preco": 727,
-  "link": "https://kiwi.com/u/wzstfu"
- },
- {
-  "sentido": "volta",
-  "voo": "AD4338",
-  "partida": "2027-01-10T14:50:00",
-  "origem": "VCP",
-  "destino": "CGB",
-  "preco": 727,
-  "link": "https://kiwi.com/u/2yv93d"
+  "preco": 887,
+  "link": "https://kiwi.com/u/wwmj83"
  },
  {
   "sentido": "volta",
@@ -213,7 +195,7 @@
   "origem": "GRU",
   "destino": "CGB",
   "preco": 887,
-  "link": "https://kiwi.com/u/7888jv"
+  "link": "https://kiwi.com/u/fuyyrq"
  },
  {
   "sentido": "volta",
@@ -222,7 +204,7 @@
   "origem": "CGH",
   "destino": "CGB",
   "preco": 945,
-  "link": "https://kiwi.com/u/bg7tps"
+  "link": "https://kiwi.com/u/kw77rq"
  },
  {
   "sentido": "volta",
@@ -231,7 +213,7 @@
   "origem": "CGH",
   "destino": "CGB",
   "preco": 945,
-  "link": "https://kiwi.com/u/m9mjrc"
+  "link": "https://kiwi.com/u/z6qm8u"
  },
  {
   "sentido": "volta",
@@ -240,7 +222,7 @@
   "origem": "GRU",
   "destino": "CGB",
   "preco": 1110,
-  "link": "https://kiwi.com/u/wts5dv"
+  "link": "https://kiwi.com/u/wcumgh"
  },
  {
   "sentido": "volta",
@@ -249,7 +231,7 @@
   "origem": "VCP",
   "destino": "CGB",
   "preco": 1142,
-  "link": "https://kiwi.com/u/nyd9gf"
+  "link": "https://kiwi.com/u/w7fgf3"
  },
  {
   "sentido": "volta",
@@ -258,7 +240,7 @@
   "origem": "VCP",
   "destino": "CGB",
   "preco": 1142,
-  "link": "https://kiwi.com/u/4kxw4g"
+  "link": "https://kiwi.com/u/94xptd8"
  },
  {
   "sentido": "volta",
@@ -267,6 +249,24 @@
   "origem": "GRU",
   "destino": "CGB",
   "preco": 1144,
-  "link": "https://kiwi.com/u/23z5n9"
+  "link": "https://kiwi.com/u/sxph4yp"
+ },
+ {
+  "sentido": "volta",
+  "voo": "G31428",
+  "partida": "2027-01-10T14:35:00",
+  "origem": "GRU",
+  "destino": "CGB",
+  "preco": 1144,
+  "link": "https://kiwi.com/u/3vbby8"
+ },
+ {
+  "sentido": "volta",
+  "voo": "AD4338",
+  "partida": "2027-01-10T14:50:00",
+  "origem": "VCP",
+  "destino": "CGB",
+  "preco": 1342,
+  "link": "https://kiwi.com/u/73xduz"
  }
 ]
