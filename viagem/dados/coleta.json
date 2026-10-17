@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T14:15",
+ "coletado_em": "2026-10-17T15:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1370,20 +1370,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-05T02:50:00",
-   "chegada": "2027-01-05T06:05:00",
-   "aviao": "Airbus A320",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "AD2777",
    "cia": "Azul",
    "origem": "CGB",
@@ -1406,6 +1392,20 @@
    "chegada": "2027-01-05T20:40:00",
    "aviao": "Embraer 195 E2",
    "preco": 647,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA4656",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "CGH",
+   "partida": "2027-01-05T02:50:00",
+   "chegada": "2027-01-05T06:05:00",
+   "aviao": "Airbus A320",
+   "preco": 809,
    "link": null,
    "na_malha_anac": true
   },
@@ -2364,6 +2364,20 @@
   {
    "fonte": "Google",
    "sentido": "volta",
+   "voo": "LA3620",
+   "cia": "LATAM",
+   "origem": "GRU",
+   "destino": "CGB",
+   "partida": "2027-01-11T14:20:00",
+   "chegada": "2027-01-11T15:35:00",
+   "aviao": "Airbus A321",
+   "preco": 1874,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
    "voo": "G31428",
    "cia": "Gol",
    "origem": "GRU",
@@ -2378,34 +2392,6 @@
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3566",
-   "cia": "LATAM",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T23:30:00",
-   "chegada": "2027-01-12T00:50:00",
-   "aviao": "Airbus A321",
-   "preco": 2052,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
-   "voo": "LA3620",
-   "cia": "LATAM",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T14:20:00",
-   "chegada": "2027-01-11T15:35:00",
-   "aviao": "Airbus A321",
-   "preco": 2206,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
    "voo": "LA3268",
    "cia": "LATAM",
    "origem": "GRU",
@@ -2413,7 +2399,7 @@
    "partida": "2027-01-11T16:05:00",
    "chegada": "2027-01-11T17:25:00",
    "aviao": "Airbus A320",
-   "preco": 2206,
+   "preco": 2052,
    "link": null,
    "na_malha_anac": true
   },
