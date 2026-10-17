@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T05:15",
+ "coletado_em": "2026-10-17T06:16",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1426,6 +1426,34 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "LA3271",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-06T02:25:00",
+   "chegada": "2027-01-06T05:40:00",
+   "aviao": "Airbus A321",
+   "preco": 604,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA3567",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-06T05:10:00",
+   "chegada": "2027-01-06T08:25:00",
+   "aviao": "Airbus A320",
+   "preco": 604,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "AD2751",
    "cia": "Azul",
    "origem": "CGB",
@@ -1972,6 +2000,20 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "LA3269",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-09T18:10:00",
+   "chegada": "2027-01-09T21:30:00",
+   "aviao": "Airbus A321",
+   "preco": 532,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "LA3271",
    "cia": "LATAM",
    "origem": "CGB",
@@ -2050,48 +2092,6 @@
    "chegada": "2027-01-09T13:45:00",
    "aviao": "Airbus A320",
    "preco": 1887,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD4341",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T02:05:00",
-   "chegada": "2027-01-09T05:05:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 707,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD5041",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T10:55:00",
-   "chegada": "2027-01-09T14:00:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 707,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD4339",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T17:30:00",
-   "chegada": "2027-01-09T20:30:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 4352,
    "link": null,
    "na_malha_anac": true
   },
@@ -2308,6 +2308,20 @@
   {
    "fonte": "Google",
    "sentido": "volta",
+   "voo": "G31468",
+   "cia": "Gol",
+   "origem": "GRU",
+   "destino": "CGB",
+   "partida": "2027-01-11T23:50:00",
+   "chegada": "2027-01-12T01:10:00",
+   "aviao": "Boeing 737",
+   "preco": 1866,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
    "voo": "G31428",
    "cia": "Gol",
    "origem": "GRU",
@@ -2488,5 +2502,7 @@
    "na_malha_anac": true
   }
  ],
- "erros": []
+ "erros": [
+  "Google ida 2027-01-09 CGB->VCP: AttributeError: 'NoneType' object has no attribute 'text'"
+ ]
 }
