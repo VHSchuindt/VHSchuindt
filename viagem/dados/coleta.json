@@ -1,1250 +1,11 @@
 {
- "coletado_em": "2026-10-17T18:14",
- "malha_anac": [
-  {
-   "sentido": "ida",
-   "voo": "G31469",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T01:50:00",
-   "chegada": "2027-01-05T05:00:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2751",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:00:00",
-   "chegada": "2027-01-05T05:15:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4341",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T02:05:00",
-   "chegada": "2027-01-05T05:05:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3271",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:25:00",
-   "chegada": "2027-01-05T05:40:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA4656",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-05T02:50:00",
-   "chegada": "2027-01-05T06:05:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3567",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T05:10:00",
-   "chegada": "2027-01-05T08:25:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2777",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-05T06:00:00",
-   "chegada": "2027-01-05T09:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4238",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T08:10:00",
-   "chegada": "2027-01-05T11:15:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3639",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T10:20:00",
-   "chegada": "2027-01-05T13:45:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3031",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-05T10:40:00",
-   "chegada": "2027-01-05T13:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD5041",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T10:55:00",
-   "chegada": "2027-01-05T14:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31429",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T11:10:00",
-   "chegada": "2027-01-05T14:30:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3621",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T16:20:00",
-   "chegada": "2027-01-05T19:35:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2774",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T16:25:00",
-   "chegada": "2027-01-05T19:35:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31467",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T16:30:00",
-   "chegada": "2027-01-05T19:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD6059",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-05T17:20:00",
-   "chegada": "2027-01-05T20:40:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4339",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T17:30:00",
-   "chegada": "2027-01-05T20:30:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3269",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T18:10:00",
-   "chegada": "2027-01-05T21:30:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31469",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T01:50:00",
-   "chegada": "2027-01-06T05:00:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2751",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T02:00:00",
-   "chegada": "2027-01-06T05:15:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4341",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-06T02:05:00",
-   "chegada": "2027-01-06T05:05:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3271",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T02:25:00",
-   "chegada": "2027-01-06T05:40:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA4656",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-06T02:50:00",
-   "chegada": "2027-01-06T06:05:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3567",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T05:10:00",
-   "chegada": "2027-01-06T08:25:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2777",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-06T06:00:00",
-   "chegada": "2027-01-06T09:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4238",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-06T08:10:00",
-   "chegada": "2027-01-06T11:15:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3639",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T10:20:00",
-   "chegada": "2027-01-06T13:45:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3031",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-06T10:40:00",
-   "chegada": "2027-01-06T13:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD5041",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-06T10:55:00",
-   "chegada": "2027-01-06T14:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31429",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T11:10:00",
-   "chegada": "2027-01-06T14:30:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3621",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T16:20:00",
-   "chegada": "2027-01-06T19:35:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31467",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T16:30:00",
-   "chegada": "2027-01-06T19:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2774",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T16:50:00",
-   "chegada": "2027-01-06T20:00:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD6059",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-06T17:20:00",
-   "chegada": "2027-01-06T20:40:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4339",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-06T17:30:00",
-   "chegada": "2027-01-06T20:30:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3269",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T18:10:00",
-   "chegada": "2027-01-06T21:30:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31469",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T01:50:00",
-   "chegada": "2027-01-07T05:00:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2751",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T02:00:00",
-   "chegada": "2027-01-07T05:15:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4341",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-07T02:05:00",
-   "chegada": "2027-01-07T05:05:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3271",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T02:25:00",
-   "chegada": "2027-01-07T05:40:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA4656",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-07T02:50:00",
-   "chegada": "2027-01-07T06:05:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3567",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T05:10:00",
-   "chegada": "2027-01-07T08:25:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2777",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-07T06:00:00",
-   "chegada": "2027-01-07T09:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4238",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-07T08:10:00",
-   "chegada": "2027-01-07T11:15:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3639",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T10:20:00",
-   "chegada": "2027-01-07T13:45:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3031",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-07T10:40:00",
-   "chegada": "2027-01-07T13:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD5041",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-07T10:55:00",
-   "chegada": "2027-01-07T14:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31429",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T11:10:00",
-   "chegada": "2027-01-07T14:30:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3621",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T16:20:00",
-   "chegada": "2027-01-07T19:35:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2774",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T16:30:00",
-   "chegada": "2027-01-07T19:45:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD6059",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-07T17:20:00",
-   "chegada": "2027-01-07T20:40:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4339",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-07T17:30:00",
-   "chegada": "2027-01-07T20:30:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3269",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T18:10:00",
-   "chegada": "2027-01-07T21:30:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31469",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T01:50:00",
-   "chegada": "2027-01-08T05:00:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2751",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T02:00:00",
-   "chegada": "2027-01-08T05:15:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4341",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-08T02:05:00",
-   "chegada": "2027-01-08T05:05:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3271",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T02:25:00",
-   "chegada": "2027-01-08T05:40:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA4656",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-08T02:50:00",
-   "chegada": "2027-01-08T06:05:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3567",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T05:10:00",
-   "chegada": "2027-01-08T08:25:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2777",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-08T06:00:00",
-   "chegada": "2027-01-08T09:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4238",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-08T08:10:00",
-   "chegada": "2027-01-08T11:15:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3639",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T10:20:00",
-   "chegada": "2027-01-08T13:45:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3031",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-08T10:40:00",
-   "chegada": "2027-01-08T13:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD5041",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-08T10:55:00",
-   "chegada": "2027-01-08T14:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31429",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T11:10:00",
-   "chegada": "2027-01-08T14:30:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3621",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T16:20:00",
-   "chegada": "2027-01-08T19:35:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2774",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T16:25:00",
-   "chegada": "2027-01-08T19:35:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31467",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T16:30:00",
-   "chegada": "2027-01-08T19:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD6059",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-08T17:20:00",
-   "chegada": "2027-01-08T20:40:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4339",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-08T17:30:00",
-   "chegada": "2027-01-08T20:30:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3269",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-08T18:10:00",
-   "chegada": "2027-01-08T21:30:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31469",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T01:50:00",
-   "chegada": "2027-01-09T05:00:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2751",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T02:00:00",
-   "chegada": "2027-01-09T05:15:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4341",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T02:05:00",
-   "chegada": "2027-01-09T05:05:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3271",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T02:25:00",
-   "chegada": "2027-01-09T05:40:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA4656",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-09T02:55:00",
-   "chegada": "2027-01-09T06:10:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3567",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T05:10:00",
-   "chegada": "2027-01-09T08:25:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3639",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T10:20:00",
-   "chegada": "2027-01-09T13:45:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD5041",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T10:55:00",
-   "chegada": "2027-01-09T14:00:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3031",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-09T11:00:00",
-   "chegada": "2027-01-09T14:15:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31429",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T11:15:00",
-   "chegada": "2027-01-09T14:35:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3621",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T16:20:00",
-   "chegada": "2027-01-09T19:40:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD2774",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T16:25:00",
-   "chegada": "2027-01-09T19:35:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "G31467",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T16:30:00",
-   "chegada": "2027-01-09T19:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD4339",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-09T17:30:00",
-   "chegada": "2027-01-09T20:30:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "AD6059",
-   "origem": "CGB",
-   "destino": "CGH",
-   "partida": "2027-01-09T17:40:00",
-   "chegada": "2027-01-09T21:00:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "ida",
-   "voo": "LA3269",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-09T18:10:00",
-   "chegada": "2027-01-09T21:30:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4769",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T08:25:00",
-   "chegada": "2027-01-10T09:50:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3030",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-10T08:55:00",
-   "chegada": "2027-01-10T10:15:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4336",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-10T09:00:00",
-   "chegada": "2027-01-10T10:10:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31466",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T09:10:00",
-   "chegada": "2027-01-10T10:25:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3638",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T09:15:00",
-   "chegada": "2027-01-10T10:30:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4052",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-10T09:40:00",
-   "chegada": "2027-01-10T11:00:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3620",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T14:20:00",
-   "chegada": "2027-01-10T15:35:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31428",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T14:35:00",
-   "chegada": "2027-01-10T15:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4338",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-10T14:50:00",
-   "chegada": "2027-01-10T16:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3268",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T16:05:00",
-   "chegada": "2027-01-10T17:25:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3270",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T21:10:00",
-   "chegada": "2027-01-10T22:30:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3868",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-10T21:40:00",
-   "chegada": "2027-01-10T22:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3566",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T23:30:00",
-   "chegada": "2027-01-11T00:50:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31468",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T23:45:00",
-   "chegada": "2027-01-11T01:05:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4340",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-10T23:45:00",
-   "chegada": "2027-01-11T00:55:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD2708",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T23:55:00",
-   "chegada": "2027-01-11T01:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD2911",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-11T06:15:00",
-   "chegada": "2027-01-11T07:25:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3030",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-11T08:35:00",
-   "chegada": "2027-01-11T09:55:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31466",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T09:00:00",
-   "chegada": "2027-01-11T10:25:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4336",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-11T09:05:00",
-   "chegada": "2027-01-11T10:15:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3638",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T09:20:00",
-   "chegada": "2027-01-11T10:35:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4769",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T09:35:00",
-   "chegada": "2027-01-11T11:00:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4052",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-11T10:05:00",
-   "chegada": "2027-01-11T11:25:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3620",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T14:20:00",
-   "chegada": "2027-01-11T15:35:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31428",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T14:25:00",
-   "chegada": "2027-01-11T15:50:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4338",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-11T14:50:00",
-   "chegada": "2027-01-11T16:00:00",
-   "aviao": "A20N",
-   "assentos": 174
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3268",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T16:05:00",
-   "chegada": "2027-01-11T17:25:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD6060",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-11T20:35:00",
-   "chegada": "2027-01-11T21:55:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3270",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T21:35:00",
-   "chegada": "2027-01-11T22:55:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3868",
-   "origem": "CGH",
-   "destino": "CGB",
-   "partida": "2027-01-11T21:45:00",
-   "chegada": "2027-01-11T23:00:00",
-   "aviao": "A320",
-   "assentos": 180
-  },
-  {
-   "sentido": "volta",
-   "voo": "LA3566",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T23:30:00",
-   "chegada": "2027-01-12T00:50:00",
-   "aviao": "A321",
-   "assentos": 224
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD4340",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-11T23:45:00",
-   "chegada": "2027-01-12T00:55:00",
-   "aviao": "E295",
-   "assentos": 136
-  },
-  {
-   "sentido": "volta",
-   "voo": "G31468",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T23:50:00",
-   "chegada": "2027-01-12T01:10:00",
-   "aviao": "B738",
-   "assentos": 186
-  },
-  {
-   "sentido": "volta",
-   "voo": "AD2708",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T23:55:00",
-   "chegada": "2027-01-12T01:20:00",
-   "aviao": "E295",
-   "assentos": 136
-  }
- ],
+ "coletado_em": "2026-10-17T19:15",
+ "malha_anac": [],
  "google": [
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:25:00",
-   "chegada": "2027-01-05T05:40:00",
-   "aviao": "Airbus A321",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3567",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T05:10:00",
-   "chegada": "2027-01-05T08:25:00",
-   "aviao": "Airbus A321",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3269",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1253,12 +14,12 @@
    "aviao": "Airbus A320",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2751",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -1267,26 +28,26 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2774",
-   "cia": "Azul",
+   "voo": "?",
+   "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
-   "partida": "2027-01-05T16:25:00",
-   "chegada": "2027-01-05T19:35:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 737,
+   "partida": "2027-01-05T16:30:00",
+   "chegada": "2027-01-05T19:50:00",
+   "aviao": "Boeing 737",
+   "preco": 758,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31429",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1295,12 +56,12 @@
    "aviao": "Boeing 737",
    "preco": 1301,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3639",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1309,12 +70,12 @@
    "aviao": "Airbus A320",
    "preco": 1430,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4238",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1323,12 +84,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD5041",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1337,12 +98,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4339",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1351,12 +112,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1365,12 +126,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 1192,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2777",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1379,12 +140,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD6059",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1393,12 +154,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1407,12 +168,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3031",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1421,12 +182,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1435,12 +196,12 @@
    "aviao": "Airbus A321",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3567",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1449,12 +210,12 @@
    "aviao": "Airbus A320",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3269",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1463,12 +224,12 @@
    "aviao": "Airbus A321",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2751",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -1477,12 +238,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31429",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1491,12 +252,12 @@
    "aviao": "Boeing 737",
    "preco": 1301,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3639",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1505,12 +266,12 @@
    "aviao": "Airbus A320",
    "preco": 1430,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31467",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1519,12 +280,12 @@
    "aviao": "Boeing 737",
    "preco": 2020,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1533,12 +294,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4238",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1547,12 +308,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD5041",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1561,12 +322,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4339",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1575,12 +336,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2777",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1589,12 +350,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD6059",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1603,12 +364,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1617,12 +378,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3031",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1631,12 +392,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2751",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -1645,12 +406,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3621",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1659,12 +420,12 @@
    "aviao": "Airbus A321",
    "preco": 760,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31429",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1673,12 +434,12 @@
    "aviao": "Boeing 737",
    "preco": 1879,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3639",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1687,12 +448,12 @@
    "aviao": "Airbus A320",
    "preco": 1887,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4238",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1701,12 +462,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD5041",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1715,12 +476,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4339",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1729,12 +490,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1743,12 +504,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 707,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2777",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1757,12 +518,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD6059",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1771,12 +532,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1785,12 +546,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3031",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1799,12 +560,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3567",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1813,12 +574,12 @@
    "aviao": "Airbus A321",
    "preco": 532,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3269",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1827,12 +588,12 @@
    "aviao": "Airbus A320",
    "preco": 532,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31467",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1841,12 +602,12 @@
    "aviao": "Boeing 737",
    "preco": 551,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2751",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -1855,12 +616,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2774",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -1869,12 +630,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31429",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -1883,12 +644,12 @@
    "aviao": "Boeing 737",
    "preco": 758,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -1897,12 +658,12 @@
    "aviao": "Airbus A320",
    "preco": 760,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1911,12 +672,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4238",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1925,12 +686,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD5041",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1939,12 +700,12 @@
    "aviao": "Airbus A320neo",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4339",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -1953,12 +714,12 @@
    "aviao": "Airbus A320neo",
    "preco": 707,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2777",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1967,12 +728,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD6059",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -1981,12 +742,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -1995,12 +756,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3031",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -2009,12 +770,12 @@
    "aviao": "Airbus A320",
    "preco": 1019,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -2023,12 +784,12 @@
    "aviao": "Airbus A321",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3567",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -2037,12 +798,12 @@
    "aviao": "Airbus A321",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD2751",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
@@ -2051,12 +812,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 737,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31429",
+   "voo": "?",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
@@ -2065,12 +826,12 @@
    "aviao": "Boeing 737",
    "preco": 1879,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3639",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "GRU",
@@ -2079,12 +840,12 @@
    "aviao": "Airbus A320",
    "preco": 1887,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4341",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -2093,12 +854,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD5041",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -2107,12 +868,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 643,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4339",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "VCP",
@@ -2121,12 +882,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 4352,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA4656",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -2135,12 +896,12 @@
    "aviao": "Airbus A320",
    "preco": 604,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD6059",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGB",
    "destino": "CGH",
@@ -2149,12 +910,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 647,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3031",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGB",
    "destino": "CGH",
@@ -2163,12 +924,12 @@
    "aviao": "Airbus A320",
    "preco": 809,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3270",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2177,12 +938,12 @@
    "aviao": "Airbus A320",
    "preco": 970,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3566",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2191,12 +952,12 @@
    "aviao": "Airbus A321",
    "preco": 970,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "G31428",
+   "voo": "?",
    "cia": "Gol",
    "origem": "GRU",
    "destino": "CGB",
@@ -2205,12 +966,12 @@
    "aviao": "Boeing 737",
    "preco": 1288,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3620",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2219,12 +980,12 @@
    "aviao": "Airbus A320",
    "preco": 1417,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3268",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2233,12 +994,12 @@
    "aviao": "Airbus A321",
    "preco": 1417,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "G31468",
+   "voo": "?",
    "cia": "Gol",
    "origem": "GRU",
    "destino": "CGB",
@@ -2247,12 +1008,12 @@
    "aviao": "Boeing 737",
    "preco": 2007,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4338",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2261,12 +1022,12 @@
    "aviao": "Airbus A320neo",
    "preco": 1382,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4336",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2275,12 +1036,12 @@
    "aviao": "Airbus A320neo",
    "preco": 1667,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4340",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2289,12 +1050,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 1667,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3030",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGH",
    "destino": "CGB",
@@ -2303,12 +1064,12 @@
    "aviao": "Airbus A320",
    "preco": 823,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3868",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGH",
    "destino": "CGB",
@@ -2317,12 +1078,12 @@
    "aviao": "Airbus A320",
    "preco": 883,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4052",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGH",
    "destino": "CGB",
@@ -2331,12 +1092,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 1149,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "G31468",
+   "voo": "?",
    "cia": "Gol",
    "origem": "GRU",
    "destino": "CGB",
@@ -2345,12 +1106,12 @@
    "aviao": "Boeing 737",
    "preco": 1866,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3620",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2359,12 +1120,12 @@
    "aviao": "Airbus A321",
    "preco": 1874,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "G31428",
+   "voo": "?",
    "cia": "Gol",
    "origem": "GRU",
    "destino": "CGB",
@@ -2373,12 +1134,12 @@
    "aviao": "Boeing 737",
    "preco": 2007,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3268",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "GRU",
    "destino": "CGB",
@@ -2387,12 +1148,12 @@
    "aviao": "Airbus A320",
    "preco": 2052,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "G31466",
+   "voo": "?",
    "cia": "Gol",
    "origem": "GRU",
    "destino": "CGB",
@@ -2401,12 +1162,12 @@
    "aviao": "Boeing 737",
    "preco": 2452,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD2911",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2415,12 +1176,12 @@
    "aviao": "Airbus A320neo",
    "preco": 609,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4336",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2429,12 +1190,12 @@
    "aviao": "Airbus A320neo",
    "preco": 1177,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4338",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2443,12 +1204,12 @@
    "aviao": "Airbus A320neo",
    "preco": 1177,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4340",
+   "voo": "?",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
@@ -2457,12 +1218,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 1418,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3030",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGH",
    "destino": "CGB",
@@ -2471,12 +1232,12 @@
    "aviao": "Airbus A320",
    "preco": 618,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4052",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGH",
    "destino": "CGB",
@@ -2485,12 +1246,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 661,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD6060",
+   "voo": "?",
    "cia": "Azul",
    "origem": "CGH",
    "destino": "CGB",
@@ -2499,12 +1260,12 @@
    "aviao": "Embraer 195 E2",
    "preco": 661,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3868",
+   "voo": "?",
    "cia": "LATAM",
    "origem": "CGH",
    "destino": "CGB",
@@ -2513,8 +1274,10 @@
    "aviao": "Airbus A320",
    "preco": 823,
    "link": null,
-   "na_malha_anac": true
+   "na_malha_anac": false
   }
  ],
- "erros": []
+ "erros": [
+  "ANAC: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+ ]
 }
