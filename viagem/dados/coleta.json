@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T20:16",
+ "coletado_em": "2026-10-17T21:17",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1552,6 +1552,62 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "AD2777",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "CGH",
+   "partida": "2027-01-06T06:00:00",
+   "chegada": "2027-01-06T09:20:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 647,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD6059",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "CGH",
+   "partida": "2027-01-06T17:20:00",
+   "chegada": "2027-01-06T20:40:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 647,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA4656",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "CGH",
+   "partida": "2027-01-06T02:50:00",
+   "chegada": "2027-01-06T06:05:00",
+   "aviao": "Airbus A320",
+   "preco": 809,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA3031",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "CGH",
+   "partida": "2027-01-06T10:40:00",
+   "chegada": "2027-01-06T13:55:00",
+   "aviao": "Airbus A320",
+   "preco": 809,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "AD2751",
    "cia": "Azul",
    "origem": "CGB",
@@ -1923,7 +1979,7 @@
    "partida": "2027-01-08T10:40:00",
    "chegada": "2027-01-08T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 947,
+   "preco": 1019,
    "link": null,
    "na_malha_anac": true
   },
@@ -2432,7 +2488,5 @@
    "na_malha_anac": true
   }
  ],
- "erros": [
-  "Google ida 2027-01-06 CGB->CGH: AttributeError: 'NoneType' object has no attribute 'text'"
- ]
+ "erros": []
 }
