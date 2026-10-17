@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T07:15",
+ "coletado_em": "2026-10-17T08:16",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1036,8 +1036,8 @@
    "voo": "AD2911",
    "origem": "VCP",
    "destino": "CGB",
-   "partida": "2027-01-11T06:10:00",
-   "chegada": "2027-01-11T07:20:00",
+   "partida": "2027-01-11T06:15:00",
+   "chegada": "2027-01-11T07:25:00",
    "aviao": "A20N",
    "assentos": 174
   },
@@ -1308,6 +1308,62 @@
    "chegada": "2027-01-05T13:45:00",
    "aviao": "Airbus A320",
    "preco": 1430,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD4238",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-05T08:10:00",
+   "chegada": "2027-01-05T11:15:00",
+   "aviao": "Airbus A320neo",
+   "preco": 707,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD5041",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-05T10:55:00",
+   "chegada": "2027-01-05T14:00:00",
+   "aviao": "Airbus A320neo",
+   "preco": 707,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD4339",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-05T17:30:00",
+   "chegada": "2027-01-05T20:30:00",
+   "aviao": "Airbus A320neo",
+   "preco": 707,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD4341",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-05T02:05:00",
+   "chegada": "2027-01-05T05:05:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 1192,
    "link": null,
    "na_malha_anac": true
   },
@@ -2488,7 +2544,5 @@
    "na_malha_anac": true
   }
  ],
- "erros": [
-  "Google ida 2027-01-05 CGB->VCP: FlightsNotFound: no flights found; received error"
- ]
+ "erros": []
 }
