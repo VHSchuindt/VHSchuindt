@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T06:16",
+ "coletado_em": "2026-10-17T07:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1314,62 +1314,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "AD4238",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T08:10:00",
-   "chegada": "2027-01-05T11:15:00",
-   "aviao": "Airbus A320neo",
-   "preco": 707,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD5041",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T10:55:00",
-   "chegada": "2027-01-05T14:00:00",
-   "aviao": "Airbus A320neo",
-   "preco": 707,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD4339",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T17:30:00",
-   "chegada": "2027-01-05T20:30:00",
-   "aviao": "Airbus A320neo",
-   "preco": 707,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD4341",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-05T02:05:00",
-   "chegada": "2027-01-05T05:05:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 1192,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "LA4656",
    "cia": "LATAM",
    "origem": "CGB",
@@ -2098,6 +2042,48 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "AD4341",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-09T02:05:00",
+   "chegada": "2027-01-09T05:05:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 707,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD5041",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-09T10:55:00",
+   "chegada": "2027-01-09T14:00:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 707,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "AD4339",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-09T17:30:00",
+   "chegada": "2027-01-09T20:30:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 4352,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "LA4656",
    "cia": "LATAM",
    "origem": "CGB",
@@ -2503,6 +2489,6 @@
   }
  ],
  "erros": [
-  "Google ida 2027-01-09 CGB->VCP: AttributeError: 'NoneType' object has no attribute 'text'"
+  "Google ida 2027-01-05 CGB->VCP: FlightsNotFound: no flights found; received error"
  ]
 }
