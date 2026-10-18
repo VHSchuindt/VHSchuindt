@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-18T16:16",
+ "coletado_em": "2026-10-18T17:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -2196,6 +2196,20 @@
   {
    "fonte": "Google",
    "sentido": "volta",
+   "voo": "LA3268",
+   "cia": "LATAM",
+   "origem": "GRU",
+   "destino": "CGB",
+   "partida": "2027-01-10T16:05:00",
+   "chegada": "2027-01-10T17:25:00",
+   "aviao": "Airbus A321",
+   "preco": 1132,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
    "voo": "G31428",
    "cia": "Gol",
    "origem": "GRU",
@@ -2217,20 +2231,6 @@
    "partida": "2027-01-10T14:20:00",
    "chegada": "2027-01-10T15:35:00",
    "aviao": "Airbus A320",
-   "preco": 1417,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
-   "voo": "LA3268",
-   "cia": "LATAM",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T16:05:00",
-   "chegada": "2027-01-10T17:25:00",
-   "aviao": "Airbus A321",
    "preco": 1417,
    "link": null,
    "na_malha_anac": true
