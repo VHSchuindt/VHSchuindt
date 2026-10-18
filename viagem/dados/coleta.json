@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-18T14:16",
+ "coletado_em": "2026-10-18T15:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1216,6 +1216,34 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "LA3567",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-05T05:10:00",
+   "chegada": "2027-01-05T08:25:00",
+   "aviao": "Airbus A321",
+   "preco": 604,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA3621",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-05T16:20:00",
+   "chegada": "2027-01-05T19:35:00",
+   "aviao": "Airbus A320",
+   "preco": 604,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "AD2751",
    "cia": "Azul",
    "origem": "CGB",
@@ -1230,14 +1258,14 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31467",
-   "cia": "Gol",
+   "voo": "AD2774",
+   "cia": "Azul",
    "origem": "CGB",
    "destino": "GRU",
-   "partida": "2027-01-05T16:30:00",
-   "chegada": "2027-01-05T19:50:00",
-   "aviao": "Boeing 737",
-   "preco": 758,
+   "partida": "2027-01-05T16:25:00",
+   "chegada": "2027-01-05T19:35:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 737,
    "link": null,
    "na_malha_anac": true
   },
@@ -1636,6 +1664,20 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "LA3639",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-07T10:20:00",
+   "chegada": "2027-01-07T13:45:00",
+   "aviao": "Airbus A320",
+   "preco": 1430,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "G31429",
    "cia": "Gol",
    "origem": "CGB",
@@ -1644,20 +1686,6 @@
    "chegada": "2027-01-07T14:30:00",
    "aviao": "Boeing 737",
    "preco": 1879,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3639",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T10:20:00",
-   "chegada": "2027-01-07T13:45:00",
-   "aviao": "Airbus A320",
-   "preco": 1887,
    "link": null,
    "na_malha_anac": true
   },
