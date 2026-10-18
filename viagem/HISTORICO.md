@@ -58,3 +58,4 @@
 | 18/10 07:15 | G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 510 (Kiwi) ⚠️ dia do casamento | R$ 510 | R$ 532 | R$ 1110 |
 | 18/10 08:15 | G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 510 (Kiwi) ⚠️ dia do casamento | R$ 510 | R$ 532 | R$ 1110 |
 | 18/10 09:15 | G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 510 (Kiwi) ⚠️ dia do casamento | R$ 510 | R$ 532 | R$ 1110 |
+| 18/10 10:15 | G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 510 (Kiwi) ⚠️ dia do casamento | R$ 510 | R$ 532 | R$ 1110 |
