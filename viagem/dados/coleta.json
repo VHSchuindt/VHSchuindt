@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-17T23:15",
+ "coletado_em": "2026-10-18T00:16",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1979,7 +1979,7 @@
    "partida": "2027-01-08T10:40:00",
    "chegada": "2027-01-08T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 947,
+   "preco": 1019,
    "link": null,
    "na_malha_anac": true
   },
