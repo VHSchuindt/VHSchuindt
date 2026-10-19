@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-19T13:20",
+ "coletado_em": "2026-10-19T14:17",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1216,20 +1216,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:25:00",
-   "chegada": "2027-01-05T05:40:00",
-   "aviao": "Airbus A321",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "LA3567",
    "cia": "LATAM",
    "origem": "CGB",
@@ -1266,6 +1252,20 @@
    "chegada": "2027-01-05T05:00:00",
    "aviao": "Boeing 737",
    "preco": 758,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA3271",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-05T02:25:00",
+   "chegada": "2027-01-05T05:40:00",
+   "aviao": "Airbus A321",
+   "preco": 760,
    "link": null,
    "na_malha_anac": true
   },
@@ -1650,20 +1650,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3269",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-07T18:10:00",
-   "chegada": "2027-01-07T21:30:00",
-   "aviao": "Airbus A320",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "AD2751",
    "cia": "Azul",
    "origem": "CGB",
@@ -1685,6 +1671,20 @@
    "partida": "2027-01-07T16:20:00",
    "chegada": "2027-01-07T19:35:00",
    "aviao": "Airbus A321",
+   "preco": 760,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
+   "voo": "LA3269",
+   "cia": "LATAM",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-07T18:10:00",
+   "chegada": "2027-01-07T21:30:00",
+   "aviao": "Airbus A320",
    "preco": 760,
    "link": null,
    "na_malha_anac": true
