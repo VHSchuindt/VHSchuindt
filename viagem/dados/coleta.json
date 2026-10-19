@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-19T12:25",
+ "coletado_em": "2026-10-19T13:20",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1720,6 +1720,20 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "AD4341",
+   "cia": "Azul",
+   "origem": "CGB",
+   "destino": "VCP",
+   "partida": "2027-01-07T02:05:00",
+   "chegada": "2027-01-07T05:05:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 643,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "AD4238",
    "cia": "Azul",
    "origem": "CGB",
@@ -1756,20 +1770,6 @@
    "chegada": "2027-01-07T20:30:00",
    "aviao": "Airbus A320neo",
    "preco": 643,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD4341",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "VCP",
-   "partida": "2027-01-07T02:05:00",
-   "chegada": "2027-01-07T05:05:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 707,
    "link": null,
    "na_malha_anac": true
   },
@@ -2021,7 +2021,7 @@
    "partida": "2027-01-08T10:40:00",
    "chegada": "2027-01-08T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 1019,
+   "preco": 947,
    "link": null,
    "na_malha_anac": true
   },
@@ -2308,14 +2308,14 @@
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4338",
+   "voo": "AD4340",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
-   "partida": "2027-01-10T14:50:00",
-   "chegada": "2027-01-10T16:00:00",
-   "aviao": "Airbus A320neo",
-   "preco": 1405,
+   "partida": "2027-01-10T23:45:00",
+   "chegada": "2027-01-11T00:55:00",
+   "aviao": "Embraer 195 E2",
+   "preco": 1694,
    "link": null,
    "na_malha_anac": true
   },
@@ -2329,21 +2329,21 @@
    "partida": "2027-01-10T09:00:00",
    "chegada": "2027-01-10T10:10:00",
    "aviao": "Airbus A320neo",
-   "preco": 1694,
+   "preco": 2121,
    "link": null,
    "na_malha_anac": true
   },
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD4340",
+   "voo": "AD4338",
    "cia": "Azul",
    "origem": "VCP",
    "destino": "CGB",
-   "partida": "2027-01-10T23:45:00",
-   "chegada": "2027-01-11T00:55:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 1694,
+   "partida": "2027-01-10T14:50:00",
+   "chegada": "2027-01-10T16:00:00",
+   "aviao": "Airbus A320neo",
+   "preco": 2121,
    "link": null,
    "na_malha_anac": true
   },

@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 19/10/2026 12:26 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 19/10/2026 13:20 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -26,9 +26,9 @@ Consulta de 19/10/2026 12:26 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | Preço | Fonte | Voo | Partida | Destino | Avião | Na malha ANAC | Link |
 |---|---|---|---|---|---|---|---|
 | R$ 551 | Google | G31467 | 09/01 16:30 | Guarulhos | Boeing 737 | ✅ | site da cia |
-| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/xh9ud3 |
-| R$ 597 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/byvq38 |
-| R$ 597 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/qywyx2 |
+| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/8wwhtc |
+| R$ 597 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/3k8tmg |
+| R$ 597 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/y68txqrt |
 | R$ 604 | Google | LA3271 | 05/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 05/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
@@ -40,10 +40,10 @@ Consulta de 19/10/2026 12:26 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 601 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/c55zsv |
+| R$ 601 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/buz8fg |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
-| R$ 615 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/d8vf87 |
-| R$ 615 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/z9fykmt |
+| R$ 615 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/jgcbmm9 |
+| R$ 615 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/w8n844 |
 | R$ 618 | Google | LA3030 | 11/01 08:35 | Congonhas | site da cia |
 
 Malha ANAC: 121 voos diretos programados no período.
