@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-19T18:16",
+ "coletado_em": "2026-10-19T19:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1216,34 +1216,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3567",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T05:10:00",
-   "chegada": "2027-01-05T08:25:00",
-   "aviao": "Airbus A321",
-   "preco": 571,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3269",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T18:10:00",
-   "chegada": "2027-01-05T21:30:00",
-   "aviao": "Airbus A320",
-   "preco": 571,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "LA3271",
    "cia": "LATAM",
    "origem": "CGB",
@@ -1258,14 +1230,14 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "G31469",
+   "voo": "G31467",
    "cia": "Gol",
    "origem": "CGB",
    "destino": "GRU",
-   "partida": "2027-01-05T01:50:00",
-   "chegada": "2027-01-05T05:00:00",
+   "partida": "2027-01-05T16:30:00",
+   "chegada": "2027-01-05T19:50:00",
    "aviao": "Boeing 737",
-   "preco": 758,
+   "preco": 1034,
    "link": null,
    "na_malha_anac": true
   },
@@ -1503,7 +1475,7 @@
    "partida": "2027-01-06T10:20:00",
    "chegada": "2027-01-06T13:45:00",
    "aviao": "Airbus A320",
-   "preco": 1430,
+   "preco": 1347,
    "link": null,
    "na_malha_anac": true
   },
@@ -1573,7 +1545,7 @@
    "partida": "2027-01-06T02:05:00",
    "chegada": "2027-01-06T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 1117,
    "link": null,
    "na_malha_anac": true
   },
@@ -1629,7 +1601,7 @@
    "partida": "2027-01-06T10:40:00",
    "chegada": "2027-01-06T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 947,
+   "preco": 893,
    "link": null,
    "na_malha_anac": true
   },
@@ -2217,7 +2189,7 @@
    "partida": "2027-01-09T11:00:00",
    "chegada": "2027-01-09T14:15:00",
    "aviao": "Airbus A320",
-   "preco": 809,
+   "preco": 764,
    "link": null,
    "na_malha_anac": true
   },
