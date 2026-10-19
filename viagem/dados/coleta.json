@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-19T09:15",
+ "coletado_em": "2026-10-19T10:14",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1307,7 +1307,7 @@
    "partida": "2027-01-05T08:10:00",
    "chegada": "2027-01-05T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1321,7 +1321,7 @@
    "partida": "2027-01-05T10:55:00",
    "chegada": "2027-01-05T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1517,7 +1517,7 @@
    "partida": "2027-01-06T02:05:00",
    "chegada": "2027-01-06T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1531,7 +1531,7 @@
    "partida": "2027-01-06T08:10:00",
    "chegada": "2027-01-06T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1545,7 +1545,7 @@
    "partida": "2027-01-06T10:55:00",
    "chegada": "2027-01-06T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1559,7 +1559,7 @@
    "partida": "2027-01-06T17:30:00",
    "chegada": "2027-01-06T20:30:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1923,7 +1923,7 @@
    "partida": "2027-01-08T02:05:00",
    "chegada": "2027-01-08T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1937,7 +1937,7 @@
    "partida": "2027-01-08T08:10:00",
    "chegada": "2027-01-08T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1951,7 +1951,7 @@
    "partida": "2027-01-08T10:55:00",
    "chegada": "2027-01-08T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
