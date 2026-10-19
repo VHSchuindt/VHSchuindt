@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 19/10/2026 14:17 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 19/10/2026 15:19 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -9,16 +9,16 @@ Consulta de 19/10/2026 14:17 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 - Nenhuma das fontes ficou mais barata que o anterior (R$ 551).
 - Agora: Google R$ 551 (G31467) é mais barato que Kiwi R$ 597 (G31469) por R$ 46.
 - Chegando até a véspera (mais seguro): G31469 05/01 01:50 Cuiabá → Guarulhos — R$ 597 (Kiwi).
-- Total ida + volta: R$ 1152 (volta AD2911 11/01 06:15 Campinas → Cuiabá — R$ 601 (Kiwi)); igual ao anterior.
+- Total ida + volta: R$ 1149 (volta AD4052 11/01 10:05 Congonhas → Cuiabá — R$ 598 (Kiwi)); antes R$ 1152 (-3).
 
 ## Mais barato por dia de ida
 
 | Dia | Kiwi | Google |
 |---|---|---|
-| 05/01 | R$ 597 — G31469 01:50 → Guarulhos | R$ 604 — LA3567 05:10 → Guarulhos |
+| 05/01 | R$ 597 — G31469 01:50 → Guarulhos | R$ 643 — AD4238 08:10 → Campinas |
 | 06/01 | R$ 597 — G31469 01:50 → Guarulhos | R$ 604 — LA3271 02:25 → Guarulhos |
-| 07/01 | R$ 618 — AD4238 08:10 → Campinas | R$ 604 — LA3567 05:10 → Guarulhos |
-| 08/01 | R$ 679 — AD4341 02:05 → Campinas | R$ 604 — LA3567 05:10 → Guarulhos |
+| 07/01 | R$ 617 — AD4238 08:10 → Campinas | R$ 604 — LA3567 05:10 → Guarulhos |
+| 08/01 | R$ 679 — AD4339 17:30 → Campinas | R$ 604 — LA3567 05:10 → Guarulhos |
 | 09/01 ⚠️ | R$ 679 — AD4341 02:05 → Campinas | R$ 551 — G31467 16:30 → Guarulhos |
 
 ## Top 10 ida (todas as fontes)
@@ -26,24 +26,24 @@ Consulta de 19/10/2026 14:17 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | Preço | Fonte | Voo | Partida | Destino | Avião | Na malha ANAC | Link |
 |---|---|---|---|---|---|---|---|
 | R$ 551 | Google | G31467 | 09/01 16:30 | Guarulhos | Boeing 737 | ✅ | site da cia |
-| R$ 597 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/qt68pf |
-| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/72z9929 |
-| R$ 597 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/gvvbcb |
-| R$ 604 | Google | LA3567 | 05/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
-| R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
+| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/hydsu9g |
+| R$ 597 | Kiwi | G31469 | 05/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/ytv3w75 |
+| R$ 597 | Kiwi | G31467 | 05/01 16:30 | Guarulhos | B738 | ✅ | https://kiwi.com/u/64kkbf |
 | R$ 604 | Google | LA3271 | 06/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 06/01 05:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 06/01 18:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 07/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
+| R$ 604 | Google | LA3567 | 08/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
+| R$ 604 | Google | LA3621 | 08/01 16:20 | Guarulhos | Airbus A321 | ✅ | site da cia |
 
 ## Top 5 volta
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 601 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/b8qt8f8 |
+| R$ 598 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/f7s249 |
+| R$ 598 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/fzn8vb |
+| R$ 600 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/9kqdxf |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
-| R$ 615 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/dx3u6h |
-| R$ 615 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/uhf7h2d |
 | R$ 618 | Google | LA3030 | 11/01 08:35 | Congonhas | site da cia |
 
 Malha ANAC: 121 voos diretos programados no período.
