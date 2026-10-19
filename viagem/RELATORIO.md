@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 19/10/2026 17:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 19/10/2026 18:17 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -9,7 +9,7 @@ Consulta de 19/10/2026 17:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 - Nenhuma das fontes ficou mais barata que o anterior (R$ 551).
 - Agora: Google R$ 551 (G31467) é mais barato que Kiwi R$ 582 (G31469) por R$ 31.
 - Chegando até a véspera (mais seguro): LA3567 05/01 05:10 Cuiabá → Guarulhos — R$ 571 (Google).
-- Total ida + volta: R$ 1135 (volta LA3030 11/01 08:35 Congonhas → Cuiabá — R$ 584 (Google)); antes R$ 1149 (-14).
+- Total ida + volta: R$ 1135 (volta LA3030 11/01 08:35 Congonhas → Cuiabá — R$ 584 (Google)); igual ao anterior.
 
 ## Mais barato por dia de ida
 
@@ -41,9 +41,9 @@ Consulta de 19/10/2026 17:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
 | R$ 584 | Google | LA3030 | 11/01 08:35 | Congonhas | site da cia |
-| R$ 598 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/bdqbpk |
-| R$ 598 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/7zp2tf |
-| R$ 600 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/6tdgzz |
+| R$ 598 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/5djfk3 |
+| R$ 598 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/ntzrbv |
+| R$ 600 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/xp9jvq9 |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 
 Malha ANAC: 121 voos diretos programados no período.
