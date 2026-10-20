@@ -99,3 +99,4 @@
 | 20/10 00:15 | LA3567 07/01 05:10 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 582 | R$ 493 | R$ 1000 |
 | 20/10 01:15 | LA3567 07/01 05:10 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 582 | R$ 493 | R$ 1000 |
 | 20/10 02:16 | LA3567 07/01 05:10 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 597 | R$ 493 | R$ 1000 |
+| 20/10 03:17 | LA3567 07/01 05:10 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 597 | R$ 493 | R$ 1000 |
