@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 20/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 20/10/2026 05:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -32,7 +32,7 @@ Consulta de 20/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | R$ 493 | Google | LA3621 | 09/01 16:20 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 493 | Google | LA3269 | 09/01 18:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 493 | Google | LA4656 | 09/01 02:55 | Congonhas | Airbus A320 | ✅ | site da cia |
-| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/t67vnm |
+| R$ 597 | Kiwi | G31469 | 06/01 01:50 | Guarulhos | B738 | ✅ | https://kiwi.com/u/zw6kvt |
 | R$ 616 | Google | G31429 | 08/01 11:10 | Guarulhos | Boeing 737 | ✅ | site da cia |
 
 ## Top 5 volta
@@ -40,9 +40,9 @@ Consulta de 20/10/2026 04:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
 | R$ 507 | Google | LA3030 | 11/01 08:35 | Congonhas | site da cia |
-| R$ 596 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/2rmy4d |
-| R$ 596 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/968d2k |
-| R$ 600 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/44pt8c |
+| R$ 596 | Kiwi | AD4052 | 11/01 10:05 | Congonhas | https://kiwi.com/u/637cuu |
+| R$ 596 | Kiwi | AD6060 | 11/01 20:35 | Congonhas | https://kiwi.com/u/pxtybnf |
+| R$ 600 | Kiwi | AD2911 | 11/01 06:15 | Campinas | https://kiwi.com/u/xbkvrj |
 | R$ 605 | Google | LA3270 | 10/01 21:10 | Guarulhos | site da cia |
 
 Malha ANAC: 121 voos diretos programados no período.
