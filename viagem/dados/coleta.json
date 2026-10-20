@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-20T00:15",
+ "coletado_em": "2026-10-20T01:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1979,7 +1979,7 @@
    "partida": "2027-01-08T10:40:00",
    "chegada": "2027-01-08T13:55:00",
    "aviao": "Airbus A320",
-   "preco": 825,
+   "preco": 768,
    "link": null,
    "na_malha_anac": true
   },
@@ -2231,7 +2231,7 @@
    "partida": "2027-01-10T16:05:00",
    "chegada": "2027-01-10T17:25:00",
    "aviao": "Airbus A321",
-   "preco": 913,
+   "preco": 930,
    "link": null,
    "na_malha_anac": true
   },
@@ -2350,20 +2350,6 @@
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "LA3620",
-   "cia": "LATAM",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-11T14:20:00",
-   "chegada": "2027-01-11T15:35:00",
-   "aviao": "Airbus A321",
-   "preco": 1141,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
    "voo": "LA3268",
    "cia": "LATAM",
    "origem": "GRU",
@@ -2386,6 +2372,20 @@
    "chegada": "2027-01-11T11:00:00",
    "aviao": "Embraer 195 E2",
    "preco": 1179,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
+   "voo": "LA3620",
+   "cia": "LATAM",
+   "origem": "GRU",
+   "destino": "CGB",
+   "partida": "2027-01-11T14:20:00",
+   "chegada": "2027-01-11T15:35:00",
+   "aviao": "Airbus A321",
+   "preco": 1307,
    "link": null,
    "na_malha_anac": true
   },
