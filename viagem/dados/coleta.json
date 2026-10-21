@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-21T12:17",
+ "coletado_em": "2026-10-21T13:26",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1216,104 +1216,6 @@
   {
    "fonte": "Google",
    "sentido": "ida",
-   "voo": "LA3271",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:25:00",
-   "chegada": "2027-01-05T05:40:00",
-   "aviao": "Airbus A321",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3567",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T05:10:00",
-   "chegada": "2027-01-05T08:25:00",
-   "aviao": "Airbus A321",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3269",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T18:10:00",
-   "chegada": "2027-01-05T21:30:00",
-   "aviao": "Airbus A320",
-   "preco": 604,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "AD2751",
-   "cia": "Azul",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T02:00:00",
-   "chegada": "2027-01-05T05:15:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 647,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "G31467",
-   "cia": "Gol",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T16:30:00",
-   "chegada": "2027-01-05T19:50:00",
-   "aviao": "Boeing 737",
-   "preco": 936,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "LA3639",
-   "cia": "LATAM",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T10:20:00",
-   "chegada": "2027-01-05T13:45:00",
-   "aviao": "Airbus A320",
-   "preco": 1145,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "G31429",
-   "cia": "Gol",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-05T11:10:00",
-   "chegada": "2027-01-05T14:30:00",
-   "aviao": "Boeing 737",
-   "preco": 1176,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
    "voo": "AD4341",
    "cia": "Azul",
    "origem": "CGB",
@@ -1377,7 +1279,7 @@
    "partida": "2027-01-05T06:00:00",
    "chegada": "2027-01-05T09:20:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1391,7 +1293,7 @@
    "partida": "2027-01-05T17:20:00",
    "chegada": "2027-01-05T20:40:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1433,21 +1335,7 @@
    "partida": "2027-01-06T02:00:00",
    "chegada": "2027-01-06T05:15:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "ida",
-   "voo": "G31469",
-   "cia": "Gol",
-   "origem": "CGB",
-   "destino": "GRU",
-   "partida": "2027-01-06T01:50:00",
-   "chegada": "2027-01-06T05:00:00",
-   "aviao": "Boeing 737",
-   "preco": 936,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1461,7 +1349,7 @@
    "partida": "2027-01-06T10:20:00",
    "chegada": "2027-01-06T13:45:00",
    "aviao": "Airbus A320",
-   "preco": 983,
+   "preco": 950,
    "link": null,
    "na_malha_anac": true
   },
@@ -1482,6 +1370,20 @@
   {
    "fonte": "Google",
    "sentido": "ida",
+   "voo": "G31469",
+   "cia": "Gol",
+   "origem": "CGB",
+   "destino": "GRU",
+   "partida": "2027-01-06T01:50:00",
+   "chegada": "2027-01-06T05:00:00",
+   "aviao": "Boeing 737",
+   "preco": 1696,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "ida",
    "voo": "G31467",
    "cia": "Gol",
    "origem": "CGB",
@@ -1489,7 +1391,7 @@
    "partida": "2027-01-06T16:30:00",
    "chegada": "2027-01-06T19:50:00",
    "aviao": "Boeing 737",
-   "preco": 1823,
+   "preco": 1936,
    "link": null,
    "na_malha_anac": true
   },
@@ -1559,7 +1461,7 @@
    "partida": "2027-01-06T06:00:00",
    "chegada": "2027-01-06T09:20:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1573,7 +1475,7 @@
    "partida": "2027-01-06T17:20:00",
    "chegada": "2027-01-06T20:40:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1643,7 +1545,7 @@
    "partida": "2027-01-07T02:00:00",
    "chegada": "2027-01-07T05:15:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1755,7 +1657,7 @@
    "partida": "2027-01-07T06:00:00",
    "chegada": "2027-01-07T09:20:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1769,7 +1671,7 @@
    "partida": "2027-01-07T17:20:00",
    "chegada": "2027-01-07T20:40:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1853,7 +1755,7 @@
    "partida": "2027-01-08T02:00:00",
    "chegada": "2027-01-08T05:15:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1951,7 +1853,7 @@
    "partida": "2027-01-08T06:00:00",
    "chegada": "2027-01-08T09:20:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -1965,7 +1867,7 @@
    "partida": "2027-01-08T17:20:00",
    "chegada": "2027-01-08T20:40:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -2049,7 +1951,7 @@
    "partida": "2027-01-09T02:00:00",
    "chegada": "2027-01-09T05:15:00",
    "aviao": "Embraer 195 E2",
-   "preco": 647,
+   "preco": 646,
    "link": null,
    "na_malha_anac": true
   },
@@ -2168,20 +2070,6 @@
   {
    "fonte": "Google",
    "sentido": "volta",
-   "voo": "AD2708",
-   "cia": "Azul",
-   "origem": "GRU",
-   "destino": "CGB",
-   "partida": "2027-01-10T23:55:00",
-   "chegada": "2027-01-11T01:20:00",
-   "aviao": "Embraer 195 E2",
-   "preco": 730,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
    "voo": "LA3270",
    "cia": "LATAM",
    "origem": "GRU",
@@ -2231,7 +2119,7 @@
    "partida": "2027-01-10T14:20:00",
    "chegada": "2027-01-10T15:35:00",
    "aviao": "Airbus A320",
-   "preco": 1132,
+   "preco": 1163,
    "link": null,
    "na_malha_anac": true
   },
@@ -2259,7 +2147,21 @@
    "partida": "2027-01-10T23:45:00",
    "chegada": "2027-01-11T01:05:00",
    "aviao": "Boeing 737",
-   "preco": 1810,
+   "preco": 1351,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
+   "voo": "G31466",
+   "cia": "Gol",
+   "origem": "GRU",
+   "destino": "CGB",
+   "partida": "2027-01-10T09:10:00",
+   "chegada": "2027-01-10T10:25:00",
+   "aviao": "Boeing 737",
+   "preco": 2211,
    "link": null,
    "na_malha_anac": true
   },
@@ -2273,7 +2175,7 @@
    "partida": "2027-01-10T23:45:00",
    "chegada": "2027-01-11T00:55:00",
    "aviao": "Embraer 195 E2",
-   "preco": 823,
+   "preco": 822,
    "link": null,
    "na_malha_anac": true
   },
@@ -2287,7 +2189,7 @@
    "partida": "2027-01-10T14:50:00",
    "chegada": "2027-01-10T16:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 1316,
+   "preco": 1317,
    "link": null,
    "na_malha_anac": true
   },
@@ -2301,7 +2203,7 @@
    "partida": "2027-01-10T09:00:00",
    "chegada": "2027-01-10T10:10:00",
    "aviao": "Airbus A320neo",
-   "preco": 1405,
+   "preco": 1519,
    "link": null,
    "na_malha_anac": true
   },
@@ -2315,7 +2217,7 @@
    "partida": "2027-01-10T09:40:00",
    "chegada": "2027-01-10T11:00:00",
    "aviao": "Embraer 195 E2",
-   "preco": 661,
+   "preco": 660,
    "link": null,
    "na_malha_anac": true
   },
@@ -2455,21 +2357,7 @@
    "partida": "2027-01-11T06:15:00",
    "chegada": "2027-01-11T07:25:00",
    "aviao": "Airbus A320neo",
-   "preco": 609,
-   "link": null,
-   "na_malha_anac": true
-  },
-  {
-   "fonte": "Google",
-   "sentido": "volta",
-   "voo": "AD4336",
-   "cia": "Azul",
-   "origem": "VCP",
-   "destino": "CGB",
-   "partida": "2027-01-11T09:05:00",
-   "chegada": "2027-01-11T10:15:00",
-   "aviao": "Airbus A320neo",
-   "preco": 609,
+   "preco": 628,
    "link": null,
    "na_malha_anac": true
   },
@@ -2483,7 +2371,21 @@
    "partida": "2027-01-11T14:50:00",
    "chegada": "2027-01-11T16:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 609,
+   "preco": 628,
+   "link": null,
+   "na_malha_anac": true
+  },
+  {
+   "fonte": "Google",
+   "sentido": "volta",
+   "voo": "AD4336",
+   "cia": "Azul",
+   "origem": "VCP",
+   "destino": "CGB",
+   "partida": "2027-01-11T09:05:00",
+   "chegada": "2027-01-11T10:15:00",
+   "aviao": "Airbus A320neo",
+   "preco": 691,
    "link": null,
    "na_malha_anac": true
   },
@@ -2497,7 +2399,7 @@
    "partida": "2027-01-11T23:45:00",
    "chegada": "2027-01-12T00:55:00",
    "aviao": "Embraer 195 E2",
-   "preco": 609,
+   "preco": 691,
    "link": null,
    "na_malha_anac": true
   },
@@ -2511,7 +2413,7 @@
    "partida": "2027-01-11T10:05:00",
    "chegada": "2027-01-11T11:25:00",
    "aviao": "Embraer 195 E2",
-   "preco": 661,
+   "preco": 660,
    "link": null,
    "na_malha_anac": true
   },
@@ -2525,7 +2427,7 @@
    "partida": "2027-01-11T20:35:00",
    "chegada": "2027-01-11T21:55:00",
    "aviao": "Embraer 195 E2",
-   "preco": 661,
+   "preco": 660,
    "link": null,
    "na_malha_anac": true
   },
@@ -2558,5 +2460,7 @@
    "na_malha_anac": true
   }
  ],
- "erros": []
+ "erros": [
+  "Google ida 2027-01-05 CGB->GRU: AttributeError: 'NoneType' object has no attribute 'text'"
+ ]
 }
