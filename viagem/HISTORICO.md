@@ -122,3 +122,4 @@
 | 21/10 15:19 | LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google) | R$ 636 | R$ 604 | R$ 1110 |
 | 21/10 16:16 | LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google) | R$ 636 | R$ 604 | R$ 1110 |
 | 21/10 17:16 | LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google) | R$ 636 | R$ 604 | R$ 1110 |
+| 21/10 18:15 | G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 551 (Google) ⚠️ dia do casamento | R$ 636 | R$ 551 | R$ 1122 |
