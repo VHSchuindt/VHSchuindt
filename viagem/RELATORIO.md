@@ -1,6 +1,6 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 21/10/2026 16:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 21/10/2026 17:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
@@ -17,7 +17,7 @@ Consulta de 21/10/2026 16:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | 05/01 | R$ 682 — AD2751 02:00 → Guarulhos | R$ 604 — LA3271 02:25 → Guarulhos |
 | 06/01 | R$ 636 — LA3269 18:10 → Guarulhos | R$ 643 — AD4341 02:05 → Campinas |
 | 07/01 | R$ 684 — AD2751 02:00 → Guarulhos | R$ 604 — LA3271 02:25 → Guarulhos |
-| 08/01 | R$ 684 — AD2751 02:00 → Guarulhos | R$ 604 — LA3567 05:10 → Guarulhos |
+| 08/01 | R$ 682 — AD2751 02:00 → Guarulhos | R$ 604 — LA3567 05:10 → Guarulhos |
 | 09/01 ⚠️ | R$ 684 — AD2751 02:00 → Guarulhos | R$ 604 — LA3271 02:25 → Guarulhos |
 
 ## Top 10 ida (todas as fontes)
@@ -39,8 +39,8 @@ Consulta de 21/10/2026 16:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 506 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/k4knzz4 |
-| R$ 552 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/qshm69 |
+| R$ 506 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/trv27vg |
+| R$ 552 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/tx5mzh |
 | R$ 628 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 | R$ 628 | Google | AD4338 | 11/01 14:50 | Campinas | site da cia |
 | R$ 660 | Google | AD4052 | 10/01 09:40 | Congonhas | site da cia |
