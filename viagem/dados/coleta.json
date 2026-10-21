@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-21T09:14",
+ "coletado_em": "2026-10-21T10:15",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -1293,7 +1293,7 @@
    "partida": "2027-01-05T02:05:00",
    "chegada": "2027-01-05T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1307,7 +1307,7 @@
    "partida": "2027-01-05T08:10:00",
    "chegada": "2027-01-05T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1321,7 +1321,7 @@
    "partida": "2027-01-05T10:55:00",
    "chegada": "2027-01-05T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1335,7 +1335,7 @@
    "partida": "2027-01-05T17:30:00",
    "chegada": "2027-01-05T20:30:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1419,7 +1419,7 @@
    "partida": "2027-01-06T10:20:00",
    "chegada": "2027-01-06T13:45:00",
    "aviao": "Airbus A320",
-   "preco": 796,
+   "preco": 770,
    "link": null,
    "na_malha_anac": true
   },
@@ -1475,7 +1475,7 @@
    "partida": "2027-01-06T02:05:00",
    "chegada": "2027-01-06T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1489,7 +1489,7 @@
    "partida": "2027-01-06T08:10:00",
    "chegada": "2027-01-06T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1503,7 +1503,7 @@
    "partida": "2027-01-06T10:55:00",
    "chegada": "2027-01-06T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1517,7 +1517,7 @@
    "partida": "2027-01-06T17:30:00",
    "chegada": "2027-01-06T20:30:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1671,7 +1671,7 @@
    "partida": "2027-01-07T02:05:00",
    "chegada": "2027-01-07T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1685,7 +1685,7 @@
    "partida": "2027-01-07T08:10:00",
    "chegada": "2027-01-07T11:15:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1699,7 +1699,7 @@
    "partida": "2027-01-07T10:55:00",
    "chegada": "2027-01-07T14:00:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -1713,7 +1713,7 @@
    "partida": "2027-01-07T17:30:00",
    "chegada": "2027-01-07T20:30:00",
    "aviao": "Airbus A320neo",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -2091,7 +2091,7 @@
    "partida": "2027-01-09T02:05:00",
    "chegada": "2027-01-09T05:05:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
@@ -2105,7 +2105,7 @@
    "partida": "2027-01-09T10:55:00",
    "chegada": "2027-01-09T14:00:00",
    "aviao": "Embraer 195 E2",
-   "preco": 707,
+   "preco": 643,
    "link": null,
    "na_malha_anac": true
   },
