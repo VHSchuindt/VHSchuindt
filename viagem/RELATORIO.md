@@ -1,16 +1,15 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 21/10/2026 18:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 21/10/2026 19:16 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
-- 🔴🔴 ALERTA FORTE — abaixo de R$ 600: G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 551 (Google) ⚠️ dia do casamento — NOVA FAIXA, preço caiu de nível!
-- O voo mais barato agora é G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 551 (Google) ⚠️ dia do casamento.
-- Há 1h o mais barato era LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google).
-- Só o Google (R$ 551) ficou mais barato que o anterior (R$ 604).
+- 🔴🔴 ALERTA FORTE — abaixo de R$ 600: G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 551 (Google) ⚠️ dia do casamento
+- Continua o mesmo voo mais barato: G31467 09/01 16:30 Cuiabá → Guarulhos — R$ 551 (Google) ⚠️ dia do casamento. Há 1h custava R$ 551 — ficou igual.
+- Nenhuma das fontes ficou mais barata que o anterior (R$ 551).
 - Agora: Google R$ 551 (G31467) é mais barato que Kiwi R$ 636 (LA3269) por R$ 85.
 - Chegando até a véspera (mais seguro): LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google).
-- Total ida + volta: R$ 1122 (volta AD2708 11/01 23:55 Guarulhos → Cuiabá — R$ 571 (Kiwi)); antes R$ 1110 (+12).
+- Total ida + volta: R$ 1122 (volta AD2708 11/01 23:55 Guarulhos → Cuiabá — R$ 571 (Kiwi)); igual ao anterior.
 
 ## Mais barato por dia de ida
 
@@ -41,8 +40,8 @@ Consulta de 21/10/2026 18:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 571 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/qj5c5ct |
-| R$ 596 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/bnsvv9 |
+| R$ 571 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/j637xm |
+| R$ 596 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/fxq49v |
 | R$ 628 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 | R$ 628 | Google | AD4338 | 11/01 14:50 | Campinas | site da cia |
 | R$ 660 | Google | AD4052 | 10/01 09:40 | Congonhas | site da cia |
