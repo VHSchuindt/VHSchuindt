@@ -1,15 +1,14 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 21/10/2026 11:23 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 21/10/2026 12:17 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
 - 🟡 Alerta — abaixo de R$ 700: LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google)
-- O voo mais barato agora é LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google).
-- Há 1h o mais barato era LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google).
-- Nenhuma das fontes ficou mais barata que o anterior (R$ 493).
+- Continua o mesmo voo mais barato: LA3271 05/01 02:25 Cuiabá → Guarulhos — R$ 604 (Google). Há 1h custava R$ 604 — ficou igual.
+- Nenhuma das fontes ficou mais barata que o anterior (R$ 604).
 - Agora: Google R$ 604 (LA3271) é mais barato que Kiwi R$ 636 (LA3269) por R$ 32.
-- Total ida + volta: R$ 1110 (volta AD2708 11/01 23:55 Guarulhos → Cuiabá — R$ 506 (Kiwi)); antes R$ 999 (+111).
+- Total ida + volta: R$ 1110 (volta AD2708 11/01 23:55 Guarulhos → Cuiabá — R$ 506 (Kiwi)); igual ao anterior.
 
 ## Mais barato por dia de ida
 
@@ -30,8 +29,8 @@ Consulta de 21/10/2026 11:23 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 | R$ 604 | Google | LA3269 | 05/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
 | R$ 604 | Google | LA3271 | 07/01 02:25 | Guarulhos | Airbus A320 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 07/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
-| R$ 604 | Google | LA3269 | 07/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 08/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
+| R$ 604 | Google | LA3621 | 08/01 16:20 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3269 | 08/01 18:10 | Guarulhos | Airbus A320 | ✅ | site da cia |
 | R$ 604 | Google | LA3271 | 09/01 02:25 | Guarulhos | Airbus A321 | ✅ | site da cia |
 | R$ 604 | Google | LA3567 | 09/01 05:10 | Guarulhos | Airbus A321 | ✅ | site da cia |
@@ -40,13 +39,10 @@ Consulta de 21/10/2026 11:23 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 506 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/tryz33s |
-| R$ 552 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/4vsxr6 |
+| R$ 506 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/hgymn7 |
+| R$ 552 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/8f53xj |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 | R$ 609 | Google | AD4336 | 11/01 09:05 | Campinas | site da cia |
 | R$ 609 | Google | AD4338 | 11/01 14:50 | Campinas | site da cia |
 
 Malha ANAC: 121 voos diretos programados no período.
-
-Erros nesta consulta:
-- Google ida 2027-01-07 CGB->VCP: AttributeError: 'NoneType' object has no attribute 'text'
