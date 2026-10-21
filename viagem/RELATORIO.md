@@ -1,11 +1,11 @@
 # Monitor de passagens Cuiabá → São Paulo
 
-Consulta de 21/10/2026 01:18 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
+Consulta de 21/10/2026 02:15 (UTC). Ida de 05/01 até 09/01 (casamento). Preços por pessoa, só ida, voo direto, sem mala despachada.
 
 ## Resumo
 
 - 🚨🚨🚨 ALERTA MÁXIMO — abaixo de R$ 500: LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google)
-- Continua o mesmo voo mais barato: LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google). Há 5h custava R$ 493 — ficou igual.
+- Continua o mesmo voo mais barato: LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google). Há 1h custava R$ 493 — ficou igual.
 - Nenhuma das fontes ficou mais barata que o anterior (R$ 493).
 - Agora: Google R$ 493 (LA3271) é mais barato que Kiwi R$ 636 (LA3269) por R$ 143.
 - Total ida + volta: R$ 993 (volta AD2708 11/01 23:55 Guarulhos → Cuiabá — R$ 500 (Kiwi)); igual ao anterior.
@@ -39,8 +39,8 @@ Consulta de 21/10/2026 01:18 (UTC). Ida de 05/01 até 09/01 (casamento). Preços
 
 | Preço | Fonte | Voo | Partida | Origem | Link |
 |---|---|---|---|---|---|
-| R$ 500 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/yvjpgv |
-| R$ 546 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/x8ccgf |
+| R$ 500 | Kiwi | AD2708 | 11/01 23:55 | Guarulhos | https://kiwi.com/u/xrfjd6 |
+| R$ 546 | Kiwi | AD4769 | 11/01 09:35 | Guarulhos | https://kiwi.com/u/ntf92u |
 | R$ 605 | Google | LA3270 | 10/01 21:10 | Guarulhos | site da cia |
 | R$ 609 | Google | AD2911 | 11/01 06:15 | Campinas | site da cia |
 | R$ 609 | Google | AD4336 | 11/01 09:05 | Campinas | site da cia |

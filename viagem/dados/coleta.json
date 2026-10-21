@@ -1,5 +1,5 @@
 {
- "coletado_em": "2026-10-21T01:17",
+ "coletado_em": "2026-10-21T02:14",
  "malha_anac": [
   {
    "sentido": "ida",
@@ -2217,7 +2217,7 @@
    "partida": "2027-01-10T14:20:00",
    "chegada": "2027-01-10T15:35:00",
    "aviao": "Airbus A320",
-   "preco": 920,
+   "preco": 913,
    "link": null,
    "na_malha_anac": true
   },
@@ -2371,7 +2371,7 @@
    "partida": "2027-01-11T14:20:00",
    "chegada": "2027-01-11T15:35:00",
    "aviao": "Airbus A321",
-   "preco": 1149,
+   "preco": 1141,
    "link": null,
    "na_malha_anac": true
   },
@@ -2385,7 +2385,7 @@
    "partida": "2027-01-11T16:05:00",
    "chegada": "2027-01-11T17:25:00",
    "aviao": "Airbus A320",
-   "preco": 1149,
+   "preco": 1141,
    "link": null,
    "na_malha_anac": true
   },
