@@ -113,3 +113,4 @@
 | 21/10 06:19 | LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 636 | R$ 493 | R$ 995 |
 | 21/10 07:19 | LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 636 | R$ 493 | R$ 995 |
 | 21/10 08:15 | LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 636 | R$ 493 | R$ 999 |
+| 21/10 09:15 | LA3271 07/01 02:25 Cuiabá → Guarulhos — R$ 493 (Google) | R$ 636 | R$ 493 | R$ 999 |
