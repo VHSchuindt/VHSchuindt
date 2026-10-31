@@ -47,16 +47,16 @@ class Vitor:
 ## <img src="assets/icons/graph.svg" width="24" /> Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VHSchuindt&show_icons=true&theme=github_dark&hide_border=false&border_color=30363D&border_radius=8&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHSchuindt&layout=compact&langs_count=6&theme=github_dark&hide_border=false&border_color=30363D&border_radius=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+  <img width="100%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Perfil e contribuições" />
+</p>
+
+<p align="center">
+  <img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas" />
+  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VHSchuindt&theme=github-dark&hide_border=false&border=30363D&border_radius=8&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VHSchuindt&bg_color=0D1117&color=8B949E&title_color=58A6FF&line=3FB950&point=2EA043&area=true&area_color=238636&hide_border=true&radius=8&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
