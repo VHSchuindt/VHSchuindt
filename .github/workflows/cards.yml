@@ -1,0 +1,29 @@
+name: generate profile cards
+
+on:
+  # run automatically every day
+  schedule:
+    - cron: "0 3 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # generates the stats cards into profile-summary-card-output/github_dark and commits them to main
+      - name: generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          THEME: github_dark
